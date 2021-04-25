@@ -60,6 +60,8 @@ What causes breast cancer?
 - On a street map of the district, he recorded the location of each death.
 
 ![image](https://user-images.githubusercontent.com/57193804/115976460-c63d3480-a587-11eb-930d-7d61738579aa.png)
+![image](https://user-images.githubusercontent.com/57193804/115976481-f8e72d00-a587-11eb-8992-2a90c909a9b2.png)
+
 
 - Each black bar represents one death.
 - Black discs mark the locations of water pumps.
